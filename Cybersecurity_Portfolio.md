@@ -1,11 +1,13 @@
 # Femi Odunaiya — Cybersecurity Portfolio
-**Google Cybersecurity Professional Certificate** | Completed 14 September 2026  
+**Google Cybersecurity Professional Certificate** | **Claude Certified Associate: Foundations**  
+Completed September 2026  
 github.com/0xNagato | femiodunaiya@gmail.com
 
 ---
 
-## 1. Certificate
-**Google Cybersecurity Professional Certificate**  
+## 1. Certifications
+
+### Google Cybersecurity Professional Certificate
 Nine courses developed by Google covering:
 - Foundations of Cybersecurity  
 - Play It Safe: Manage Security Risks  
@@ -20,6 +22,9 @@ Nine courses developed by Google covering:
 **Skills demonstrated**: Beginner-level Python, Linux, SQL, SIEM tools, Intrusion Detection Systems (IDS), identification of common risks/threats/vulnerabilities, and mitigation techniques.  
 
 Verify: https://coursera.org/verify/professional-cert/8VZBLE82IWMO
+
+### Claude Certified Associate: Foundations (Anthropic)
+Validates practical, everyday use of Claude for professional work, including prompting, output evaluation, workflow integration, responsible AI use, product/model selection, and troubleshooting.
 
 ---
 
@@ -51,6 +56,7 @@ Before cybersecurity certification:
 - Extensive production experience building secure, audited, idempotent data pipelines in Rust and Python.  
 - Compliance-aware design habits from 5 years as Corporate Counsel at Access Bank Nigeria.  
 - Hands-on with Linux environments, SQL, networking concepts, and logging/observability tools (Prometheus, Grafana).  
+- Claude Certified Associate demonstrating practical AI tooling competence.
 
 These foundations accelerate practical security work (log analysis, detection logic, secure coding practices, risk thinking).
 
@@ -58,7 +64,7 @@ These foundations accelerate practical security work (log analysis, detection lo
 
 ## 4. GitHub & Contact
 - Primary GitHub: https://github.com/0xNagato  
-- This portfolio + updated CV available in this repository.  
+- This portfolio + updated CV available in this repository: https://github.com/0xNagato/cybersecurity-portfolio-2026  
 - Email: femiodunaiya@gmail.com  
 - Location: Lagos, Nigeria (fully remote capable)
 

@@ -1,5 +1,5 @@
 # FEMI ODUNAIYA
-**Senior Systems Engineer | Cybersecurity (Google Certified) | DeFi & MEV Infrastructure**
+**Senior Systems Engineer | Cybersecurity (Google Certified) | Claude Certified Associate | DeFi & MEV Infrastructure**
 
 Lagos, Nigeria | Open to Remote Worldwide  
 📧 femiodunaiya@gmail.com | 📞 +234 816 320 5336  
@@ -9,11 +9,11 @@ Lagos, Nigeria | Open to Remote Worldwide
 
 ## SUMMARY
 
-Senior systems engineer with deep production experience in high-performance Rust infrastructure, MEV/DeFi protocols, and quantitative trading systems. Recently completed the **Google Cybersecurity Professional Certificate** (September 2026), gaining hands-on competence in beginner-level Python, Linux, SQL, SIEM tools, Intrusion Detection Systems (IDS), threat identification, and mitigation techniques.
+Senior systems engineer with deep production experience in high-performance Rust infrastructure, MEV/DeFi protocols, and quantitative trading systems. Recently completed the **Google Cybersecurity Professional Certificate** (September 2026) and holds the **Claude Certified Associate: Foundations** credential from Anthropic.
 
 Former Corporate Counsel at Access Bank Nigeria (5 years) — brings rare compliance-aware architectural discipline, audit trails, and risk thinking to engineering and security work. Builds production-grade, idempotent pipelines and multi-chain systems from first principles. LLB (Hons), Durham University.
 
-**Currently expanding into cybersecurity roles** (SOC analysis, threat detection, vulnerability assessment, incident response) while leveraging strong systems and security-adjacent background.
+**Currently expanding into cybersecurity roles** (SOC analysis, threat detection, vulnerability assessment, incident response) while leveraging strong systems, AI tooling, and security-adjacent background.
 
 ---
 
@@ -23,12 +23,18 @@ Former Corporate Counsel at Access Bank Nigeria (5 years) — brings rare compli
   Nine courses covering Foundations of Cybersecurity, Network Security, Linux & SQL, Assets/Threats/Vulnerabilities, Detection & Response, Python for Cybersecurity, and job preparation.  
   Verify: https://coursera.org/verify/professional-cert/8VZBLE82IWMO
 
+- **Claude Certified Associate: Foundations** — Anthropic  
+  Validates practical, everyday use of Claude for professional work including prompting, output evaluation, workflow integration, responsible AI use, and troubleshooting.
+
 ---
 
 ## TECHNICAL SKILLS
 
 **Cybersecurity (new focus)**  
 SIEM concepts, IDS, threat detection & response, Wireshark / packet analysis, Linux security, Python for security automation, vulnerability identification, incident handling basics
+
+**AI / LLM Tools**  
+Claude (Anthropic) — Certified Associate level practical application
 
 **Languages**  
 Rust, Python, PHP, TypeScript, Solidity, SQL
@@ -100,4 +106,4 @@ Durham University, United Kingdom | 2010 – 2013
 
 ---
 
-*Updated September 2026 with Google Cybersecurity Professional Certificate*
+*Updated September 2026 with Google Cybersecurity Professional Certificate + Claude Certified Associate*
