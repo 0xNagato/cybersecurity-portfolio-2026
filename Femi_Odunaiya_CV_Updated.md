@@ -6,7 +6,7 @@ Lagos, Nigeria · Open to remote roles · [0xnagato.github.io](https://0xnagato.
 
 ## Summary
 
-Backend engineer who builds Rust services that take in live data, model it and act on it. I designed and run a 9-crate Rust trading system for Polymarket (1,756 tests, live orders behind two separate safety gates) and wrote a 63,000-line Rust ingestion pipeline that feeds a Laravel and React product. I also run a self-hosted multi-agent AI assistant and build open-source tools that keep AI agents honest. Before engineering I spent five years as corporate counsel at a Tier-1 bank. That shaped how I work: clear writing, evidence before claims, and systems built to be audited.
+Backend engineer who builds Rust services that take in live data, model it and act on it. I designed and run a 9-crate Rust trading system for Polymarket (1,756 tests, live orders behind two separate safety gates) and wrote a 63,000-line Rust ingestion pipeline that feeds a Laravel and React product. I also run a self-hosted multi-agent AI assistant and build open-source tools that keep AI agents honest. Before engineering I spent five years at a Tier-1 bank, first as a legal officer and then as a credit analyst. That shaped how I work: clear writing, evidence before claims, and systems built to be audited.
 
 ## Skills
 
@@ -96,10 +96,17 @@ Backend engineer who builds Rust services that take in live data, model it and a
 - The concierge booking flow in React and TypeScript, built from Figma designs.
 - WhatsApp and messaging integrations, and the itinerary tracker.
 
-### Corporate Counsel and Credit Analyst
-*Access Bank Nigeria, Lagos · 2017 to 2022*
+### Credit Analyst, Credit Administration
+*Access Bank Nigeria, Lagos · Nov 2020 to Sep 2022*
 
-- Legal advice, credit analysis, contract negotiation and regulatory compliance for one of Nigeria's largest commercial banks.
+- Reviewed drawdown documents against the facility approval memo, the bank's credit guide and Central Bank of Nigeria rules.
+- Maintained customer credit lines on Flexcube, the bank's core banking system, and the collateral register, including insurance and valuation records. Generated CRMS codes so facilities were registered with the Central Bank.
+
+### Legal Officer, Corporate Counsel
+*Access Bank Nigeria, Lagos · Sep 2017 to Nov 2020*
+
+- Issued contingent liability instruments for the bank's units, including guarantees, indemnities and letters of credit, and drafted and reviewed legal documents across the bank.
+- Litigation team: kept the litigation schedule and briefed external lawyers on new cases. Perfection team: made sure pledged property was registered so the bank could enforce its security.
 
 ### Earlier legal career
 *Lagos · 2014 to 2017*
