@@ -54,7 +54,7 @@ This shows ability to produce clear, professional security documentation suitabl
 ## 3. Relevant Technical Background
 Before cybersecurity certification:
 - Extensive production experience building secure, audited, idempotent data pipelines in Rust and Python.  
-- Compliance-aware design habits from 5 years as Corporate Counsel at Access Bank Nigeria.  
+- Compliance-aware design habits from five years at Access Bank Nigeria, first as a legal officer and then as a credit analyst.  
 - Hands-on with Linux environments, SQL, networking concepts, and logging/observability tools (Prometheus, Grafana).  
 - Claude Certified Associate demonstrating practical AI tooling competence.
 
