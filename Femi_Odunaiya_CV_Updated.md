@@ -2,18 +2,18 @@
 
 **Backend and Systems Engineer (Rust)**
 
-Lagos, Nigeria · Open to remote roles · [0xnagato.github.io](https://0xnagato.github.io) · [github.com/0xNagato](https://github.com/0xNagato) · [linkedin.com/in/femi-odunaiya-3b1307a8](https://linkedin.com/in/femi-odunaiya-3b1307a8)
+Lagos, Nigeria · Open to remote roles and relocation · [0xnagato.github.io](https://0xnagato.github.io) · [github.com/0xNagato](https://github.com/0xNagato) · [linkedin.com/in/femi-odunaiya-3b1307a8](https://linkedin.com/in/femi-odunaiya-3b1307a8)
 
 ## Summary
 
-Backend engineer who builds Rust services that take in live data, model it and act on it. I designed and run a 9-crate Rust trading system for Polymarket (1,756 tests, live orders behind two separate safety gates) and wrote a 63,000-line Rust ingestion pipeline that feeds a Laravel and React product. I also run a self-hosted multi-agent AI assistant and build open-source tools that keep AI agents honest. Before engineering I spent five years at a Tier-1 bank, first as a legal officer and then as a credit analyst. That shaped how I work: clear writing, evidence before claims, and systems built to be audited.
+Backend engineer who builds Rust services that take in live data, model it and act on it. I designed and run a 9-crate Rust trading system for Polymarket (1,756 tests, live orders behind two separate safety gates) and wrote a 63,000-line Rust ingestion pipeline that feeds a Laravel and React product. I also run a self-hosted multi-agent AI assistant and build open-source tools that keep AI agents honest. Before engineering I spent five years in banking, as a legal officer and then a credit analyst at Access Bank, and a credit analyst at Wema Bank. That shaped how I work: clear writing, evidence before claims, and systems built to be audited.
 
 ## Skills
 
 - **Languages:** Rust (main), TypeScript, Python, PHP, SQL, Solidity
 - **Rust:** Tokio, Actix Web, SQLx, reqwest, tokio-tungstenite, ethers-rs, alloy, serde, thiserror, clap
 - **Web and APIs:** Laravel 12, Filament, Inertia.js, React 19, Next.js, Hono, REST and WebSocket clients, MCP servers
-- **Data:** PostgreSQL (partitioned tables, materialized views, 200+ SQL migrations), Redis, SQLite, Supabase, Qdrant
+- **Data:** PostgreSQL (partitioned tables, materialized views, 200+ SQL migrations), Redis, SQLite, Supabase, Qdrant, graph databases
 - **Delivery:** GitHub Actions, Linux servers on AWS EC2, pm2, Foundry
 - **Testing:** cargo test, Pest, PHPStan, Node test runner, shadow (no-money) runs against live data
 - **Security:** Linux, SQL, SIEM and intrusion detection tools, Wireshark and tcpdump packet analysis, incident documentation
@@ -61,11 +61,6 @@ Backend engineer who builds Rust services that take in live data, model it and a
 - **qvac-doc-qa** (JavaScript): question answering over your own documents with a model that runs entirely on your machine.
 - **inhouse-ai-php** (TypeScript, Laravel): an AI agent for hospitality bookings that calls a reservation system's functions directly.
 
-### On-chain arbitrage bots
-*Rust, Solidity, ethers-rs, Flashbots · 2023 to 2024 · private*
-
-- Sandwich and multi-hop arbitrage bots for EVM chains (Ethereum, Base, Blast, BSC, Arbitrum, Polygon). Pool discovery across V2 and V3 pools, generation of 3-hop and 4-hop paths, and bundle submission through Flashbots.
-
 ## Open source
 
 ### OpenClaw: WhatsApp messages lost during gateway downtime
@@ -96,8 +91,21 @@ Backend engineer who builds Rust services that take in live data, model it and a
 - The concierge booking flow in React and TypeScript, built from Figma designs.
 - WhatsApp and messaging integrations, and the itinerary tracker.
 
+### Blockchain Developer, with Solidquant
+*Solidquant (Seoul), remote · Mar 2023 to Nov 2024*
+
+- Co-programmer with Solidquant on MEV bots: wrote much of the code for arbitrage and sandwich bots on EVM layer 1 and layer 2 chains (Ethereum, Base, Blast, BSC, Arbitrum, Polygon), including pool discovery across V2 and V3 pools, 3-hop and 4-hop paths, and bundle submission through Flashbots.
+- Worked out Uniswap V3 trade calculations and estimated the price impact of trades mathematically. Researched new protocols such as Blast before launch and designed bots for them.
+- Set up nodes and servers for Base, Ethereum, BNB Smart Chain and Blast, plus subgraphs on SQL databases and Substreams, to route trades across exchanges. Advised newcomers on MEV and designed bots and contracts for Web3 applications.
+
+### Credit Analyst
+*Wema Bank Plc, Lagos · Dec 2021 to Feb 2023*
+
+- Credit recovery: led and assisted recovery negotiations with defaulting customers.
+- Advised the team on the law of credit recovery, including notice periods and methods of recovery, and drafted letters to defaulting customers.
+
 ### Credit Analyst, Credit Administration
-*Access Bank Nigeria, Lagos · Nov 2020 to Sep 2022*
+*Access Bank Nigeria, Lagos · Nov 2020 to Jun 2021*
 
 - Reviewed drawdown documents against the facility approval memo, the bank's credit guide and Central Bank of Nigeria rules.
 - Maintained customer credit lines on Flexcube, the bank's core banking system, and the collateral register, including insurance and valuation records. Generated CRMS codes so facilities were registered with the Central Bank.
@@ -108,15 +116,24 @@ Backend engineer who builds Rust services that take in live data, model it and a
 - Issued contingent liability instruments for the bank's units, including guarantees, indemnities and letters of credit, and drafted and reviewed legal documents across the bank.
 - Litigation team: kept the litigation schedule and briefed external lawyers on new cases. Perfection team: made sure pledged property was registered so the bank could enforce its security.
 
-### Earlier legal career
-*Lagos · 2014 to 2017*
+### Legal Associate
+*Abraham & Co (Barristers and Solicitors), Lagos · Nov 2015 to Apr 2017*
 
-- Associate, Abraham & Co (2015 to 2017): drafted the Digital Broadcasting Agreement for Nigeria's digital switch-over, plus content aggregation, transmission and set-top box distribution agreements. NYSC corps member, Anu Eso & Co (2014 to 2015).
+- Drafted the Digital Broadcasting Agreement for the operation and maintenance of Nigeria's digital terrestrial (DTT) and digital satellite (DSAT) television platforms for the 2017 digital switch-over, plus content aggregation, transmission and set-top box distribution agreements, working with both parties to each agreement.
+- Researched and drafted legal opinions.
+
+### Trainee Solicitor (NYSC)
+*Anu Eso & Co, Lagos · Nov 2014 to Oct 2015*
+
+- Appeared in court as co-counsel, attended mediation sessions and filed terms of settlement for consent judgments. Drafted legal opinions, including on wrongful termination of employment.
+- Company secretarial work (board and annual general meetings, minutes, annual returns) and perfection of clients' titles at the Lands Registry, Alausa.
 
 ## Education
 
 - **LLB (Hons) Law**, Durham University, United Kingdom, Second Class Upper (2:1) · 2010 to 2013
-- **Barrister at Law (BL)**, Nigerian Law School · 2013 to 2014
+- **Barrister at Law (BL)**, Nigerian Law School, a one-year postgraduate professional qualification for call to the Nigerian Bar · 2013 to 2014
+- **Access Bank School of Banking Excellence**, entry-level banking programme · May to Aug 2017
+- **International Baccalaureate Diploma**, Ardingly College, West Sussex, 38 points · 2008 to 2010
 
 ## Certifications
 
